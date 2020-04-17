@@ -1,4 +1,4 @@
-# Calculadora Android Moviles
+# Calculador
 Autor:Francisco Javier Morales Ayala 
 carnet:MA13095
 Ingenieria de Sistemas Informaticos
