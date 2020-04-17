@@ -5,7 +5,7 @@ Ingenieria de Sistemas Informaticos
 
 Android 6.0 Marshmallow api 23
 sas
-minSdkVersion 23
+minSdkVersion 23asas
 
 
 
